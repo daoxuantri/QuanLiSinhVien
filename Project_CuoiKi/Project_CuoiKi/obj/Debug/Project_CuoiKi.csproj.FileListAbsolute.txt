@@ -1,0 +1,175 @@
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddContactForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CameraForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StudentNoClassForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ForgotPassWord.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.RegisterHR.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ShowContactGroup.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.InformationStudentForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.RegisCourseForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseGradesForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddCourseForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.EditCourseForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ManageCourseForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.PrintCourseForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UDCourseForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddScoreForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AvgScoreForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ManageScoreForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.PrintScoreForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StaticResultScore.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddStudentForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MainForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ManageStudentsForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.PrintStudentForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StatisticalForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StudentListForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UDStudentForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UpdateClassForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UDScoreForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.DirectShow.dll
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.dll
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\Aspose.Words.dll
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.dll
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.xml
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.DirectShow.xml
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.xml
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CopyComplete
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.SelectContact.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UpdateContactForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ShowFullContact.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.Show_Full_Student_Course.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseGradesListForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.InformationTeacherForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MarkCourseForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.EditUserForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MainFormStudent.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseGradeList.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.EditInformationStudentForm.resources
+D:\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MainFormTeacher.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.DirectShow.dll
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.dll
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.dll
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.xml
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.DirectShow.xml
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.xml
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddContactForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CameraForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StudentNoClassForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.EditUserForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.EditInformationStudentForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MainFormTeacher.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseGradeList.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MainFormStudent.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseGradesListForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ForgotPassWord.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.RegisterHR.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.SelectContact.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ShowContactGroup.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ShowFullContact.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.Show_Full_Student_Course.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.InformationTeacherForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MarkCourseForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.InformationStudentForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.RegisCourseForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseGradesForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddCourseForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.EditCourseForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ManageCourseForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.PrintCourseForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UDCourseForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddScoreForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AvgScoreForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ManageScoreForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.PrintScoreForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StaticResultScore.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddStudentForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MainForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ManageStudentsForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.PrintStudentForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StatisticalForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StudentListForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UDStudentForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UpdateClassForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UDScoreForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UpdateContactForm.resources
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CopyComplete
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\DOANcntt-truongminhieu03122022\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe.config
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\Project_CuoiKi.exe
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\Project_CuoiKi.pdb
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.DirectShow.dll
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.dll
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.dll
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.xml
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.Video.DirectShow.xml
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\bin\Debug\AForge.xml
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.AssemblyReference.cache
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddContactForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CameraForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StudentNoClassForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.EditUserForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.EditInformationStudentForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MainFormTeacher.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseGradeList.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MainFormStudent.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseGradesListForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ForgotPassWord.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.RegisterHR.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.SelectContact.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ShowContactGroup.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ShowFullContact.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.Show_Full_Student_Course.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.InformationTeacherForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MarkCourseForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.InformationStudentForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.RegisCourseForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseGradesForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.CourseForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddCourseForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.EditCourseForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ManageCourseForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.PrintCourseForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UDCourseForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddScoreForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AvgScoreForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ManageScoreForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.PrintScoreForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StaticResultScore.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.AddStudentForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.Form1.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.MainForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.ManageStudentsForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.Properties.Resources.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.PrintStudentForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StatisticalForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.StudentListForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UDStudentForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UpdateClassForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UDScoreForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.UpdateContactForm.resources
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.GenerateResource.cache
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CoreCompileInputs.cache
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.csproj.CopyComplete
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.exe
+D:\Đồ án CNTT-Winform\Đồ án CNTT-Winform\Project_CuoiKi\Project_CuoiKi\obj\Debug\Project_CuoiKi.pdb
